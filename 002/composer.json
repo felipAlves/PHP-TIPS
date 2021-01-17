@@ -19,6 +19,8 @@
             "source//Config.php"
         ]
     },
-    "require": {}
+    "require": {
+        "coffeecode/datalayer": "1.1.2"
+    }
     
 }
